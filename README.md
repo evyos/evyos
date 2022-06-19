@@ -1,2 +1,2 @@
-# evyos
+# EvyOS
 Main repository
